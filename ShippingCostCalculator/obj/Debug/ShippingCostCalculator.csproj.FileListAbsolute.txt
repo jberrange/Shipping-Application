@@ -1,0 +1,40 @@
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\ShippingCostCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmCostCalculator.resources
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\ShippingCostCalculator.csproj.GenerateResource.Cache
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Resources\XMLPackageDefinitions.xml
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\bin\Debug\Resources\XMLPackageDefinitions.xml
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\obj\Debug\ShippingCostCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\obj\Debug\ShippingCostCalculator.csproj.GenerateResource.Cache
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\obj\Debug\Shipping.frmCostCalculator.resources
+C:\Users\Gillian\Dropbox\ShippingApp\WindowsFormsApplication4\obj\Debug\Shipping.Properties.Resources.resources
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\bin\Debug\Resources\XMLPackageDefinitions.xml
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\obj\Debug\ShippingCostCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\obj\Debug\Shipping.frmCostCalculator.resources
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\obj\Debug\Shipping.Properties.Resources.resources
+C:\Users\Gillian\Dropbox\ShippingApp\ShippingCostCalculator\obj\Debug\ShippingCostCalculator.csproj.GenerateResource.Cache
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\bin\Debug\Resources\XMLPackageDefinitions.xml
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\obj\Debug\ShippingCostCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\obj\Debug\Shipping.frmCostCalculator.resources
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\obj\Debug\Shipping.Properties.Resources.resources
+C:\Users\Gillian\Dropbox\Shipping Application\ShippingCostCalculator\obj\Debug\ShippingCostCalculator.csproj.GenerateResource.Cache

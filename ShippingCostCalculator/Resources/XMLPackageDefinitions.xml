@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageDefinitionsTable>
+  <PackageType>
+    <PackageName>Small</PackageName>
+    <PackageLength>210</PackageLength>
+    <PackageWidth>280</PackageWidth>
+    <PackageHeight>130</PackageHeight>
+    <PackageMass>25</PackageMass>
+    <PackageCost>5.00</PackageCost>
+  </PackageType>
+  <PackageType>
+    <PackageName>Medium</PackageName>
+    <PackageLength>280</PackageLength>
+    <PackageWidth>390</PackageWidth>
+    <PackageHeight>180</PackageHeight>
+    <PackageMass>25</PackageMass>
+    <PackageCost>7.50</PackageCost>
+  </PackageType>
+  <PackageType>
+    <PackageName>Large</PackageName>
+    <PackageLength>380</PackageLength>
+    <PackageWidth>550</PackageWidth>
+    <PackageHeight>200</PackageHeight>
+    <PackageMass>25</PackageMass>
+    <PackageCost>8.50</PackageCost>
+  </PackageType>
+  <PackageType>
+    <PackageName>Bicycle</PackageName>
+    <PackageLength>1000</PackageLength>
+    <PackageWidth>50</PackageWidth>
+    <PackageHeight>500</PackageHeight>
+    <PackageMass>75</PackageMass>
+    <PackageCost>10.00</PackageCost>
+  </PackageType>
+</PackageDefinitionsTable>
